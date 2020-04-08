@@ -6,7 +6,7 @@ a:hover {text-decoration:underline;}
 .pre {
   text-align: left;
   margin-left: 0em; /* INDENTS */
-  font: 12.0px 'courier';
+  font: 14.0px 'courier';
   width: 585px;
   position: relative;
   white-space: -moz-pre-wrap; /* Mozilla, supported since 1999 */
